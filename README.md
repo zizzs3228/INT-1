@@ -26,7 +26,7 @@ docker compose up --build -d
 pytest INT-1.py
 ```
 ![image](https://github.com/zizzs3228/INT-1/assets/73750173/718fd5f4-35cf-4df2-bae0-d1fcc08a5833)
-Успешное выполнение тестов. Первый и 4 тест являются демонстрационными, основное задание - это 2 и 3
+Успешное выполнение тестов. 1 и 4 тест являются демонстрационными, основное задание - это 2 и 3
 
 
 ![image](https://github.com/zizzs3228/INT-1/assets/73750173/c536c6b8-9fde-437c-81b7-5ebbcb0f781d)
