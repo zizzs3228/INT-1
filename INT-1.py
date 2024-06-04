@@ -62,7 +62,7 @@ def test_perfomance_like(db_connection:mysql.connector.MySQLConnection)->None:
     def random_strings()->list:
         pattern_to_random = ['test','bruhmmm','Sasha','Masha','']
         length = 20 
-        count = 100
+        count = 100_000
         generated_strings = []
         for _ in range(count):
             substring = random.choice(pattern_to_random)
