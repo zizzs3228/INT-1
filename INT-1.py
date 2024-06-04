@@ -188,5 +188,5 @@ def test_when_index_is_not_used(db_connection:mysql.connector.MySQLConnection)->
     cursor.execute(query)
     db_connection.commit()
 
-
+    db_connection.close()
     cursor.close
