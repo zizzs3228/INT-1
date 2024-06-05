@@ -7,7 +7,7 @@ git clone https://github.com/zizzs3228/INT-1.git
 ### 2
 Поставить виртуальное окружения, *если необходиммо:*
 ```
-python -m venv /path/to/venv
+python3 -m venv /path/to/venv
 source /path/to/venv/activate
 ```
 ### 3
